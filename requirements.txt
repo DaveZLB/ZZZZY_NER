@@ -1,0 +1,6 @@
+torch==1.1.0
+boto3==1.9
+regex==2020.4.4
+sacremoses==0.0.41
+sentencepiece==0.1.85
+requests==2.23.0
